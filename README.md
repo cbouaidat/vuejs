@@ -19,9 +19,11 @@ npm run build
 ```
 npm run lint
 ```
+Il y a une mini api lançabla via la commande : 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
+```
+npm run start
+```
 
 Bug connus : 
+- Requête cors (Problème) desactivable via un plugin.
